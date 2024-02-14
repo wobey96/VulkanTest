@@ -8,6 +8,8 @@
 
 #include <iostream>
 
+// FINALLY WORKS THANK GOD I COULD CRY :')
+
 int main(int argc, char* argv[]) {
     glfwInit();
 
